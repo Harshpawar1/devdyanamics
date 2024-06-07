@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Committing",
+      "date": "2024-06-01T09:00:00Z",
+      "description": "Implemented new feature XYZ",
+      "value" : 30
+    },
+    {
+      "id": 2,
+      "name": "pull request",
+      "date": "2024-06-02T10:30:00Z",
+      "description": "Opened PR for feature XYZ",
+      "value" : 45
+    },
+    {
+      "id": 3,
+      "name": "Merging",
+      "date": "2024-06-03T15:00:00Z",
+      "description": "Merged feature XYZ into main branch",
+      "value" : 15
+    },
+    {
+      "id": 4,
+      "name": "Attending meeting",
+      "date": "2024-06-04T11:00:00Z",
+      "description": "Sprint planning meeting",
+      "value" : 50
+    },
+    {
+      "id": 5,
+      "name": "documentation",
+      "date": "2024-06-05T14:00:00Z",
+      "description": "Documented new API endpoints",
+      "value" : 43
+    }
+  ]
+}
